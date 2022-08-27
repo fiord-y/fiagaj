@@ -1,5 +1,5 @@
 <p> Hi there, I'm Fierdes, software developer currently based in La Spezia, Italy</p>
-<h3>What I work with</h3>
+<p>What I work with</p>
 <p>daily:</p>
 <p>
   <!-- Languages -->
